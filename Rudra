@@ -1,0 +1,10 @@
+git remote add origin https://github.com/rudramadhabpradhan530-pixel/Jarvis-.git
+git branch -M main
+git push -u origin mainecho "# Jarvis-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rudramadhabpradhan530-pixel/Jarvis-.git
+git push -u origin mainhttps://github.com/rudramadhabpradhan530-pixel/Jarvis-.gitREADME.mdhttps://support.google.com/gemini/thread/389971481?hl=enRudra madhab pradhan # Jarvis-
+Jarvis  Ai
